@@ -1,0 +1,66 @@
+{
+ "detektor": {
+  "alpha": 0.06,
+  "h": 6,
+  "k": 0.5,
+  "wmin": 5
+ },
+ "ergebnis": {
+  "fehlmeldungen|0.0": 2.34,
+  "Stufe +14 %|0.0": {
+   "anteil": 0.97,
+   "verzoegerung": 13.573883161512027
+  },
+  "Rampe auf +28 %|0.0": {
+   "anteil": 0.9933333333333333,
+   "verzoegerung": 29.213087248322147
+  },
+  "Stufe +28 %|0.0": {
+   "anteil": 1.0,
+   "verzoegerung": 4.341666666666667
+  },
+  "fehlmeldungen|0.03": 0.6533333333333333,
+  "Stufe +14 %|0.03": {
+   "anteil": 0.765,
+   "verzoegerung": 13.786492374727668
+  },
+  "Rampe auf +28 %|0.03": {
+   "anteil": 0.905,
+   "verzoegerung": 36.9171270718232
+  },
+  "Stufe +28 %|0.03": {
+   "anteil": 0.9983333333333333,
+   "verzoegerung": 4.739565943238731
+  },
+  "fehlmeldungen|0.06": 0.3,
+  "Stufe +14 %|0.06": {
+   "anteil": 0.43833333333333335,
+   "verzoegerung": 11.091254752851711
+  },
+  "Rampe auf +28 %|0.06": {
+   "anteil": 0.44333333333333336,
+   "verzoegerung": 38.51127819548872
+  },
+  "Stufe +28 %|0.06": {
+   "anteil": 0.985,
+   "verzoegerung": 5.495769881556684
+  },
+  "gleiche_rate": {
+   "h": 10.0,
+   "ziel_fehlmeldungen": 0.3,
+   "fehlmeldungen": 0.25,
+   "Stufe +14 %": {
+    "anteil": 0.9516666666666667,
+    "verzoegerung": 21.82661996497373
+   },
+   "Rampe auf +28 %": {
+    "anteil": 0.995,
+    "verzoegerung": 38.36013400335008
+   },
+   "Stufe +28 %": {
+    "anteil": 0.9983333333333333,
+    "verzoegerung": 7.440734557595993
+   }
+  }
+ }
+}

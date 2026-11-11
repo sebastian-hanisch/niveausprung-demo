@@ -1,0 +1,262 @@
+{
+ "detektor": {
+  "alpha": 0.03,
+  "h": 4,
+  "k": 1.0,
+  "wmin": 2
+ },
+ "ergebnis": {
+  "Stufe +28 %|1.0|0": {
+   "anteil": 1.0,
+   "verzoegerung": 0.13166666666666665,
+   "verzoegerung_se": 0.013815536218122326
+  },
+  "Stufe +28 %|1.0|10": {
+   "anteil": 1.0,
+   "verzoegerung": 10.131666666666666,
+   "verzoegerung_se": 0.013815536218122324
+  },
+  "Stufe +28 %|1.0|14": {
+   "anteil": 1.0,
+   "verzoegerung": 14.138333333333334,
+   "verzoegerung_se": 0.015244102952565551
+  },
+  "Stufe +28 %|1.0|21": {
+   "anteil": 1.0,
+   "verzoegerung": 21.153333333333332,
+   "verzoegerung_se": 0.024166306868927567
+  },
+  "Stufe +28 %|1.5|10": {
+   "anteil": 1.0,
+   "verzoegerung": 10.131666666666666,
+   "verzoegerung_se": 0.013815536218122324
+  },
+  "Stufe +28 %|1.5|14": {
+   "anteil": 1.0,
+   "verzoegerung": 14.138333333333334,
+   "verzoegerung_se": 0.015244102952565551
+  },
+  "Stufe +28 %|1.5|21": {
+   "anteil": 1.0,
+   "verzoegerung": 21.153333333333332,
+   "verzoegerung_se": 0.024166306868927567
+  },
+  "Stufe +14 %|1.0|0": {
+   "anteil": 1.0,
+   "verzoegerung": 1.35,
+   "verzoegerung_se": 0.032107394911661015
+  },
+  "Stufe +14 %|1.0|10": {
+   "anteil": 1.0,
+   "verzoegerung": 11.348333333333333,
+   "verzoegerung_se": 0.032094321088222036
+  },
+  "Stufe +14 %|1.0|14": {
+   "anteil": 1.0,
+   "verzoegerung": 15.356666666666667,
+   "verzoegerung_se": 0.03258793733582069
+  },
+  "Stufe +14 %|1.0|21": {
+   "anteil": 1.0,
+   "verzoegerung": 22.373333333333335,
+   "verzoegerung_se": 0.03927463244702626
+  },
+  "Stufe +14 %|1.5|10": {
+   "anteil": 1.0,
+   "verzoegerung": 11.348333333333333,
+   "verzoegerung_se": 0.032094321088222036
+  },
+  "Stufe +14 %|1.5|14": {
+   "anteil": 1.0,
+   "verzoegerung": 15.356666666666667,
+   "verzoegerung_se": 0.03258793733582069
+  },
+  "Stufe +14 %|1.5|21": {
+   "anteil": 1.0,
+   "verzoegerung": 22.373333333333335,
+   "verzoegerung_se": 0.03927463244702626
+  },
+  "Aktionswoche +25 %|1.0|0": {
+   "anteil": 1.0,
+   "verzoegerung": 0.27,
+   "verzoegerung_se": 0.018139691673878373
+  },
+  "Aktionswoche +25 %|1.0|10": {
+   "anteil": 0.9583333333333334,
+   "verzoegerung": 10.264347826086956,
+   "verzoegerung_se": 0.03122597876027732
+  },
+  "Aktionswoche +25 %|1.0|14": {
+   "anteil": 0.013333333333333334,
+   "verzoegerung": 30.25,
+   "verzoegerung_se": 6.430257715341919
+  },
+  "Aktionswoche +25 %|1.0|21": {
+   "anteil": 0.006666666666666667,
+   "verzoegerung": 32.75,
+   "verzoegerung_se": 6.786935980249114
+  },
+  "Aktionswoche +25 %|1.5|10": {
+   "anteil": 0.82,
+   "verzoegerung": 10.132113821138212,
+   "verzoegerung_se": 0.015281457115513
+  },
+  "Aktionswoche +25 %|1.5|14": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Aktionswoche +25 %|1.5|21": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Aktionswoche +50 %|1.0|0": {
+   "anteil": 1.0,
+   "verzoegerung": 0.0,
+   "verzoegerung_se": 0.0
+  },
+  "Aktionswoche +50 %|1.0|10": {
+   "anteil": 1.0,
+   "verzoegerung": 10.0,
+   "verzoegerung_se": 0.0
+  },
+  "Aktionswoche +50 %|1.0|14": {
+   "anteil": 0.045,
+   "verzoegerung": 35.0,
+   "verzoegerung_se": 2.4743700455888002
+  },
+  "Aktionswoche +50 %|1.0|21": {
+   "anteil": 0.023333333333333334,
+   "verzoegerung": 43.785714285714285,
+   "verzoegerung_se": 5.10890041225037
+  },
+  "Aktionswoche +50 %|1.5|10": {
+   "anteil": 1.0,
+   "verzoegerung": 10.0,
+   "verzoegerung_se": 0.0
+  },
+  "Aktionswoche +50 %|1.5|14": {
+   "anteil": 0.0016666666666666668,
+   "verzoegerung": 29.0,
+   "verzoegerung_se": null
+  },
+  "Aktionswoche +50 %|1.5|21": {
+   "anteil": 0.0016666666666666668,
+   "verzoegerung": 45.0,
+   "verzoegerung_se": null
+  },
+  "Ausreißer +100 %|1.0|0": {
+   "anteil": 1.0,
+   "verzoegerung": 0.0,
+   "verzoegerung_se": 0.0
+  },
+  "Ausreißer +100 %|1.0|10": {
+   "anteil": 0.0016666666666666668,
+   "verzoegerung": 57.0,
+   "verzoegerung_se": null
+  },
+  "Ausreißer +100 %|1.0|14": {
+   "anteil": 0.006666666666666667,
+   "verzoegerung": 20.75,
+   "verzoegerung_se": 6.75
+  },
+  "Ausreißer +100 %|1.0|21": {
+   "anteil": 0.005,
+   "verzoegerung": 14.0,
+   "verzoegerung_se": 7.0
+  },
+  "Ausreißer +100 %|1.5|10": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Ausreißer +100 %|1.5|14": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Ausreißer +100 %|1.5|21": {
+   "anteil": 0.0016666666666666668,
+   "verzoegerung": 0.0,
+   "verzoegerung_se": null
+  },
+  "Rampe auf +28 %|1.0|0": {
+   "anteil": 1.0,
+   "verzoegerung": 18.093333333333334,
+   "verzoegerung_se": 0.1947329073690192
+  },
+  "Rampe auf +28 %|1.0|10": {
+   "anteil": 1.0,
+   "verzoegerung": 28.236666666666668,
+   "verzoegerung_se": 0.19023455437915784
+  },
+  "Rampe auf +28 %|1.0|14": {
+   "anteil": 1.0,
+   "verzoegerung": 32.138333333333335,
+   "verzoegerung_se": 0.19300164156989366
+  },
+  "Rampe auf +28 %|1.0|21": {
+   "anteil": 1.0,
+   "verzoegerung": 39.10333333333333,
+   "verzoegerung_se": 0.19379346736875877
+  },
+  "Rampe auf +28 %|1.5|10": {
+   "anteil": 1.0,
+   "verzoegerung": 28.796666666666667,
+   "verzoegerung_se": 0.18859520307103797
+  },
+  "Rampe auf +28 %|1.5|14": {
+   "anteil": 1.0,
+   "verzoegerung": 32.32333333333333,
+   "verzoegerung_se": 0.19092716210108124
+  },
+  "Rampe auf +28 %|1.5|21": {
+   "anteil": 1.0,
+   "verzoegerung": 39.141666666666666,
+   "verzoegerung_se": 0.1925935104009541
+  },
+  "keine Form|1.0|0": {
+   "meldungen_je_jahr": [
+    0.25666666666666665,
+    0.03476902614399835
+   ]
+  },
+  "keine Form|1.0|10": {
+   "meldungen_je_jahr": [
+    0.0,
+    0.0
+   ]
+  },
+  "keine Form|1.0|14": {
+   "meldungen_je_jahr": [
+    0.0016666666666666668,
+    0.0016666666666666666
+   ]
+  },
+  "keine Form|1.0|21": {
+   "meldungen_je_jahr": [
+    0.0016666666666666668,
+    0.0016666666666666666
+   ]
+  },
+  "keine Form|1.5|10": {
+   "meldungen_je_jahr": [
+    0.0,
+    0.0
+   ]
+  },
+  "keine Form|1.5|14": {
+   "meldungen_je_jahr": [
+    0.0016666666666666668,
+    0.0016666666666666666
+   ]
+  },
+  "keine Form|1.5|21": {
+   "meldungen_je_jahr": [
+    0.0,
+    0.0
+   ]
+  }
+ }
+}

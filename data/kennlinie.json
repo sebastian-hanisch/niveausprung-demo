@@ -1,0 +1,670 @@
+{
+ "detektor": {
+  "alpha": 0.06,
+  "h": 6,
+  "k": 0.5,
+  "wmin": 5
+ },
+ "ergebnis": {
+  "weekday|3.0": {
+   "fehlmeldungen": [
+    12.821666666666667,
+    0.22078878132296098
+   ],
+   "sprung_0.07": {
+    "anteil": 0.8133333333333334,
+    "verzoegerung": 16.915983606557376
+   },
+   "sprung_0.14": {
+    "anteil": 0.9016666666666666,
+    "verzoegerung": 10.77449168207024
+   },
+   "sprung_0.28": {
+    "anteil": 0.985,
+    "verzoegerung": 4.086294416243655
+   },
+   "sprung_0.42": {
+    "anteil": 0.9933333333333333,
+    "verzoegerung": 1.5604026845637584
+   }
+  },
+  "weekday|4.0": {
+   "fehlmeldungen": [
+    7.033333333333333,
+    0.150304211396897
+   ],
+   "sprung_0.07": {
+    "anteil": 0.6483333333333333,
+    "verzoegerung": 20.095115681233935
+   },
+   "sprung_0.14": {
+    "anteil": 0.7466666666666667,
+    "verzoegerung": 13.71875
+   },
+   "sprung_0.28": {
+    "anteil": 0.9516666666666667,
+    "verzoegerung": 5.309982486865149
+   },
+   "sprung_0.42": {
+    "anteil": 0.9883333333333333,
+    "verzoegerung": 2.246205733558179
+   }
+  },
+  "weekday|5.0": {
+   "fehlmeldungen": [
+    4.435,
+    0.11488380571121046
+   ],
+   "sprung_0.07": {
+    "anteil": 0.495,
+    "verzoegerung": 20.026936026936028
+   },
+   "sprung_0.14": {
+    "anteil": 0.6233333333333333,
+    "verzoegerung": 14.820855614973262
+   },
+   "sprung_0.28": {
+    "anteil": 0.9116666666666666,
+    "verzoegerung": 6.521023765996343
+   },
+   "sprung_0.42": {
+    "anteil": 0.985,
+    "verzoegerung": 3.0287648054145517
+   }
+  },
+  "weekday|6.0": {
+   "fehlmeldungen": [
+    3.03,
+    0.08854006635432246
+   ],
+   "sprung_0.07": {
+    "anteil": 0.385,
+    "verzoegerung": 22.27705627705628
+   },
+   "sprung_0.14": {
+    "anteil": 0.5216666666666666,
+    "verzoegerung": 14.175718849840255
+   },
+   "sprung_0.28": {
+    "anteil": 0.8516666666666667,
+    "verzoegerung": 7.166340508806262
+   },
+   "sprung_0.42": {
+    "anteil": 0.9766666666666667,
+    "verzoegerung": 3.7167235494880546
+   }
+  },
+  "weekday|7.0": {
+   "fehlmeldungen": [
+    1.935,
+    0.06878516958482823
+   ],
+   "sprung_0.07": {
+    "anteil": 0.29833333333333334,
+    "verzoegerung": 21.837988826815643
+   },
+   "sprung_0.14": {
+    "anteil": 0.44,
+    "verzoegerung": 15.632575757575758
+   },
+   "sprung_0.28": {
+    "anteil": 0.785,
+    "verzoegerung": 7.932059447983015
+   },
+   "sprung_0.42": {
+    "anteil": 0.97,
+    "verzoegerung": 4.353951890034364
+   }
+  },
+  "weekday|8.0": {
+   "fehlmeldungen": [
+    1.2716666666666667,
+    0.05412115505943622
+   ],
+   "sprung_0.07": {
+    "anteil": 0.22833333333333333,
+    "verzoegerung": 22.226277372262775
+   },
+   "sprung_0.14": {
+    "anteil": 0.38166666666666665,
+    "verzoegerung": 16.61572052401747
+   },
+   "sprung_0.28": {
+    "anteil": 0.73,
+    "verzoegerung": 8.703196347031964
+   },
+   "sprung_0.42": {
+    "anteil": 0.965,
+    "verzoegerung": 5.507772020725389
+   }
+  },
+  "weekday|10.0": {
+   "fehlmeldungen": [
+    0.53,
+    0.03480848309349165
+   ],
+   "sprung_0.07": {
+    "anteil": 0.13,
+    "verzoegerung": 23.384615384615383
+   },
+   "sprung_0.14": {
+    "anteil": 0.26666666666666666,
+    "verzoegerung": 17.375
+   },
+   "sprung_0.28": {
+    "anteil": 0.6383333333333333,
+    "verzoegerung": 10.804177545691905
+   },
+   "sprung_0.42": {
+    "anteil": 0.92,
+    "verzoegerung": 6.967391304347826
+   }
+  },
+  "weekday|12.0": {
+   "fehlmeldungen": [
+    0.20333333333333334,
+    0.02064576105288424
+   ],
+   "sprung_0.07": {
+    "anteil": 0.06833333333333333,
+    "verzoegerung": 24.317073170731707
+   },
+   "sprung_0.14": {
+    "anteil": 0.18666666666666668,
+    "verzoegerung": 20.285714285714285
+   },
+   "sprung_0.28": {
+    "anteil": 0.5333333333333333,
+    "verzoegerung": 13.078125
+   },
+   "sprung_0.42": {
+    "anteil": 0.8616666666666667,
+    "verzoegerung": 8.85880077369439
+   }
+  },
+  "weekday|15.0": {
+   "fehlmeldungen": [
+    0.051666666666666666,
+    0.009044245001645336
+   ],
+   "sprung_0.07": {
+    "anteil": 0.028333333333333332,
+    "verzoegerung": 21.352941176470587
+   },
+   "sprung_0.14": {
+    "anteil": 0.09333333333333334,
+    "verzoegerung": 25.267857142857142
+   },
+   "sprung_0.28": {
+    "anteil": 0.42333333333333334,
+    "verzoegerung": 16.775590551181104
+   },
+   "sprung_0.42": {
+    "anteil": 0.7383333333333333,
+    "verzoegerung": 11.060948081264108
+   }
+  },
+  "weekday|20.0": {
+   "fehlmeldungen": [
+    0.0,
+    0.0
+   ],
+   "sprung_0.07": {
+    "anteil": 0.0016666666666666668,
+    "verzoegerung": 38.0
+   },
+   "sprung_0.14": {
+    "anteil": 0.03166666666666667,
+    "verzoegerung": 26.94736842105263
+   },
+   "sprung_0.28": {
+    "anteil": 0.24166666666666667,
+    "verzoegerung": 24.76551724137931
+   },
+   "sprung_0.42": {
+    "anteil": 0.5416666666666666,
+    "verzoegerung": 15.883076923076922
+   }
+  },
+  "fourier_trend|3.0": {
+   "fehlmeldungen": [
+    11.49,
+    0.22277115932459138
+   ],
+   "sprung_0.07": {
+    "anteil": 0.7533333333333333,
+    "verzoegerung": 16.734513274336283
+   },
+   "sprung_0.14": {
+    "anteil": 0.8866666666666667,
+    "verzoegerung": 10.637218045112782
+   },
+   "sprung_0.28": {
+    "anteil": 0.9766666666666667,
+    "verzoegerung": 3.453924914675768
+   },
+   "sprung_0.42": {
+    "anteil": 0.9966666666666667,
+    "verzoegerung": 1.568561872909699
+   }
+  },
+  "fourier_trend|4.0": {
+   "fehlmeldungen": [
+    6.17,
+    0.1474194648233144
+   ],
+   "sprung_0.07": {
+    "anteil": 0.5416666666666666,
+    "verzoegerung": 20.935384615384617
+   },
+   "sprung_0.14": {
+    "anteil": 0.7483333333333333,
+    "verzoegerung": 14.293986636971047
+   },
+   "sprung_0.28": {
+    "anteil": 0.9683333333333334,
+    "verzoegerung": 4.619621342512909
+   },
+   "sprung_0.42": {
+    "anteil": 0.9916666666666667,
+    "verzoegerung": 2.223529411764706
+   }
+  },
+  "fourier_trend|5.0": {
+   "fehlmeldungen": [
+    3.765,
+    0.10825505497764845
+   ],
+   "sprung_0.07": {
+    "anteil": 0.38666666666666666,
+    "verzoegerung": 23.32758620689655
+   },
+   "sprung_0.14": {
+    "anteil": 0.565,
+    "verzoegerung": 16.52212389380531
+   },
+   "sprung_0.28": {
+    "anteil": 0.955,
+    "verzoegerung": 6.113438045375218
+   },
+   "sprung_0.42": {
+    "anteil": 0.9783333333333334,
+    "verzoegerung": 2.8500851788756387
+   }
+  },
+  "fourier_trend|6.0": {
+   "fehlmeldungen": [
+    2.453333333333333,
+    0.08786551501791676
+   ],
+   "sprung_0.07": {
+    "anteil": 0.2783333333333333,
+    "verzoegerung": 22.491017964071855
+   },
+   "sprung_0.14": {
+    "anteil": 0.4266666666666667,
+    "verzoegerung": 17.8046875
+   },
+   "sprung_0.28": {
+    "anteil": 0.9283333333333333,
+    "verzoegerung": 7.673249551166966
+   },
+   "sprung_0.42": {
+    "anteil": 0.9816666666666667,
+    "verzoegerung": 3.7843803056027165
+   }
+  },
+  "fourier_trend|7.0": {
+   "fehlmeldungen": [
+    1.555,
+    0.07136059449233442
+   ],
+   "sprung_0.07": {
+    "anteil": 0.195,
+    "verzoegerung": 22.0
+   },
+   "sprung_0.14": {
+    "anteil": 0.32666666666666666,
+    "verzoegerung": 17.612244897959183
+   },
+   "sprung_0.28": {
+    "anteil": 0.8916666666666667,
+    "verzoegerung": 8.949532710280375
+   },
+   "sprung_0.42": {
+    "anteil": 0.9883333333333333,
+    "verzoegerung": 4.391231028667791
+   }
+  },
+  "fourier_trend|8.0": {
+   "fehlmeldungen": [
+    0.8983333333333333,
+    0.055292975272180904
+   ],
+   "sprung_0.07": {
+    "anteil": 0.12833333333333333,
+    "verzoegerung": 21.324675324675326
+   },
+   "sprung_0.14": {
+    "anteil": 0.23666666666666666,
+    "verzoegerung": 16.697183098591548
+   },
+   "sprung_0.28": {
+    "anteil": 0.8366666666666667,
+    "verzoegerung": 10.306772908366534
+   },
+   "sprung_0.42": {
+    "anteil": 0.9883333333333333,
+    "verzoegerung": 5.116357504215852
+   }
+  },
+  "fourier_trend|10.0": {
+   "fehlmeldungen": [
+    0.255,
+    0.02791118954734267
+   ],
+   "sprung_0.07": {
+    "anteil": 0.058333333333333334,
+    "verzoegerung": 18.742857142857144
+   },
+   "sprung_0.14": {
+    "anteil": 0.12166666666666667,
+    "verzoegerung": 17.45205479452055
+   },
+   "sprung_0.28": {
+    "anteil": 0.6583333333333333,
+    "verzoegerung": 13.045569620253165
+   },
+   "sprung_0.42": {
+    "anteil": 0.985,
+    "verzoegerung": 7.181049069373943
+   }
+  },
+  "fourier_trend|12.0": {
+   "fehlmeldungen": [
+    0.02666666666666667,
+    0.008435379644882175
+   ],
+   "sprung_0.07": {
+    "anteil": 0.013333333333333334,
+    "verzoegerung": 13.625
+   },
+   "sprung_0.14": {
+    "anteil": 0.05333333333333334,
+    "verzoegerung": 15.28125
+   },
+   "sprung_0.28": {
+    "anteil": 0.465,
+    "verzoegerung": 14.741935483870968
+   },
+   "sprung_0.42": {
+    "anteil": 0.965,
+    "verzoegerung": 9.601036269430052
+   }
+  },
+  "fourier_trend|15.0": {
+   "fehlmeldungen": [
+    0.0,
+    0.0
+   ],
+   "sprung_0.07": {
+    "anteil": 0.0033333333333333335,
+    "verzoegerung": 16.5
+   },
+   "sprung_0.14": {
+    "anteil": 0.018333333333333333,
+    "verzoegerung": 17.09090909090909
+   },
+   "sprung_0.28": {
+    "anteil": 0.23166666666666666,
+    "verzoegerung": 16.985611510791365
+   },
+   "sprung_0.42": {
+    "anteil": 0.84,
+    "verzoegerung": 13.601190476190476
+   }
+  },
+  "fourier_trend|20.0": {
+   "fehlmeldungen": [
+    0.0,
+    0.0
+   ],
+   "sprung_0.07": {
+    "anteil": 0.0,
+    "verzoegerung": null
+   },
+   "sprung_0.14": {
+    "anteil": 0.0016666666666666668,
+    "verzoegerung": 20.0
+   },
+   "sprung_0.28": {
+    "anteil": 0.065,
+    "verzoegerung": 20.05128205128205
+   },
+   "sprung_0.42": {
+    "anteil": 0.49166666666666664,
+    "verzoegerung": 19.34237288135593
+   }
+  },
+  "calendar|3.0": {
+   "fehlmeldungen": [
+    9.818333333333333,
+    0.23281920263731673
+   ],
+   "sprung_0.07": {
+    "anteil": 0.7433333333333333,
+    "verzoegerung": 14.609865470852018
+   },
+   "sprung_0.14": {
+    "anteil": 0.91,
+    "verzoegerung": 7.829670329670329
+   },
+   "sprung_0.28": {
+    "anteil": 0.9983333333333333,
+    "verzoegerung": 2.3956594323873124
+   },
+   "sprung_0.42": {
+    "anteil": 1.0,
+    "verzoegerung": 1.005
+   }
+  },
+  "calendar|4.0": {
+   "fehlmeldungen": [
+    3.4633333333333334,
+    0.1383300647950105
+   ],
+   "sprung_0.07": {
+    "anteil": 0.44333333333333336,
+    "verzoegerung": 16.94736842105263
+   },
+   "sprung_0.14": {
+    "anteil": 0.7633333333333333,
+    "verzoegerung": 9.541484716157205
+   },
+   "sprung_0.28": {
+    "anteil": 0.9966666666666667,
+    "verzoegerung": 3.168896321070234
+   },
+   "sprung_0.42": {
+    "anteil": 1.0,
+    "verzoegerung": 1.5283333333333333
+   }
+  },
+  "calendar|5.0": {
+   "fehlmeldungen": [
+    1.0966666666666667,
+    0.06918705407171374
+   ],
+   "sprung_0.07": {
+    "anteil": 0.20333333333333334,
+    "verzoegerung": 18.549180327868854
+   },
+   "sprung_0.14": {
+    "anteil": 0.595,
+    "verzoegerung": 10.53501400560224
+   },
+   "sprung_0.28": {
+    "anteil": 0.9916666666666667,
+    "verzoegerung": 4.384873949579832
+   },
+   "sprung_0.42": {
+    "anteil": 1.0,
+    "verzoegerung": 2.12
+   }
+  },
+  "calendar|6.0": {
+   "fehlmeldungen": [
+    0.3,
+    0.03199888701459021
+   ],
+   "sprung_0.07": {
+    "anteil": 0.09166666666666666,
+    "verzoegerung": 16.327272727272728
+   },
+   "sprung_0.14": {
+    "anteil": 0.43833333333333335,
+    "verzoegerung": 11.091254752851711
+   },
+   "sprung_0.28": {
+    "anteil": 0.985,
+    "verzoegerung": 5.495769881556684
+   },
+   "sprung_0.42": {
+    "anteil": 1.0,
+    "verzoegerung": 2.703333333333333
+   }
+  },
+  "calendar|7.0": {
+   "fehlmeldungen": [
+    0.08166666666666667,
+    0.01591210671307318
+   ],
+   "sprung_0.07": {
+    "anteil": 0.043333333333333335,
+    "verzoegerung": 13.346153846153847
+   },
+   "sprung_0.14": {
+    "anteil": 0.29833333333333334,
+    "verzoegerung": 11.871508379888269
+   },
+   "sprung_0.28": {
+    "anteil": 0.965,
+    "verzoegerung": 6.739205526770293
+   },
+   "sprung_0.42": {
+    "anteil": 1.0,
+    "verzoegerung": 3.3433333333333333
+   }
+  },
+  "calendar|8.0": {
+   "fehlmeldungen": [
+    0.021666666666666667,
+    0.007950587056252297
+   ],
+   "sprung_0.07": {
+    "anteil": 0.016666666666666666,
+    "verzoegerung": 13.9
+   },
+   "sprung_0.14": {
+    "anteil": 0.20166666666666666,
+    "verzoegerung": 13.735537190082646
+   },
+   "sprung_0.28": {
+    "anteil": 0.945,
+    "verzoegerung": 8.10405643738977
+   },
+   "sprung_0.42": {
+    "anteil": 1.0,
+    "verzoegerung": 4.0
+   }
+  },
+  "calendar|10.0": {
+   "fehlmeldungen": [
+    0.0033333333333333335,
+    0.003333333333333333
+   ],
+   "sprung_0.07": {
+    "anteil": 0.0,
+    "verzoegerung": null
+   },
+   "sprung_0.14": {
+    "anteil": 0.07333333333333333,
+    "verzoegerung": 13.727272727272727
+   },
+   "sprung_0.28": {
+    "anteil": 0.83,
+    "verzoegerung": 10.8714859437751
+   },
+   "sprung_0.42": {
+    "anteil": 1.0,
+    "verzoegerung": 5.571666666666666
+   }
+  },
+  "calendar|12.0": {
+   "fehlmeldungen": [
+    0.0,
+    0.0
+   ],
+   "sprung_0.07": {
+    "anteil": 0.0,
+    "verzoegerung": null
+   },
+   "sprung_0.14": {
+    "anteil": 0.02,
+    "verzoegerung": 16.25
+   },
+   "sprung_0.28": {
+    "anteil": 0.695,
+    "verzoegerung": 13.657074340527577
+   },
+   "sprung_0.42": {
+    "anteil": 0.995,
+    "verzoegerung": 7.422110552763819
+   }
+  },
+  "calendar|15.0": {
+   "fehlmeldungen": [
+    0.0,
+    0.0
+   ],
+   "sprung_0.07": {
+    "anteil": 0.0,
+    "verzoegerung": null
+   },
+   "sprung_0.14": {
+    "anteil": 0.0,
+    "verzoegerung": null
+   },
+   "sprung_0.28": {
+    "anteil": 0.35833333333333334,
+    "verzoegerung": 16.386046511627907
+   },
+   "sprung_0.42": {
+    "anteil": 0.9816666666666667,
+    "verzoegerung": 10.631578947368421
+   }
+  },
+  "calendar|20.0": {
+   "fehlmeldungen": [
+    0.0,
+    0.0
+   ],
+   "sprung_0.07": {
+    "anteil": 0.0,
+    "verzoegerung": null
+   },
+   "sprung_0.14": {
+    "anteil": 0.0,
+    "verzoegerung": null
+   },
+   "sprung_0.28": {
+    "anteil": 0.07,
+    "verzoegerung": 20.38095238095238
+   },
+   "sprung_0.42": {
+    "anteil": 0.7716666666666666,
+    "verzoegerung": 16.542116630669547
+   }
+  }
+ }
+}

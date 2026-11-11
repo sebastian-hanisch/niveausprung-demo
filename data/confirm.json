@@ -1,0 +1,406 @@
+{
+ "detektor": {
+  "alpha": 0.06,
+  "h": 6,
+  "k": 0.5,
+  "wmin": 5
+ },
+ "ergebnis": {
+  "Stufe +28 %|1.0|0": {
+   "anteil": 0.985,
+   "verzoegerung": 5.495769881556684,
+   "verzoegerung_se": 0.15891436932496525
+  },
+  "Stufe +28 %|1.0|3": {
+   "anteil": 0.9183333333333333,
+   "verzoegerung": 9.29038112522686,
+   "verzoegerung_se": 0.23758074388771266
+  },
+  "Stufe +28 %|1.0|7": {
+   "anteil": 0.9566666666666667,
+   "verzoegerung": 12.590592334494774,
+   "verzoegerung_se": 0.1665993612870299
+  },
+  "Stufe +28 %|1.0|10": {
+   "anteil": 0.965,
+   "verzoegerung": 15.677029360967184,
+   "verzoegerung_se": 0.185232420563158
+  },
+  "Stufe +28 %|1.0|14": {
+   "anteil": 0.9516666666666667,
+   "verzoegerung": 19.583187390542907,
+   "verzoegerung_se": 0.17867713559654308
+  },
+  "Stufe +28 %|1.0|21": {
+   "anteil": 0.9466666666666667,
+   "verzoegerung": 26.47711267605634,
+   "verzoegerung_se": 0.1738137312122524
+  },
+  "Stufe +28 %|1.5|3": {
+   "anteil": 0.7833333333333333,
+   "verzoegerung": 10.278723404255318,
+   "verzoegerung_se": 0.31368900995186433
+  },
+  "Stufe +28 %|1.5|7": {
+   "anteil": 0.8083333333333333,
+   "verzoegerung": 13.857731958762887,
+   "verzoegerung_se": 0.28958508087314105
+  },
+  "Stufe +28 %|1.5|10": {
+   "anteil": 0.7933333333333333,
+   "verzoegerung": 17.039915966386555,
+   "verzoegerung_se": 0.29399294443629465
+  },
+  "Stufe +28 %|1.5|14": {
+   "anteil": 0.7616666666666667,
+   "verzoegerung": 20.35010940919037,
+   "verzoegerung_se": 0.2981444021375201
+  },
+  "Stufe +28 %|1.5|21": {
+   "anteil": 0.7333333333333333,
+   "verzoegerung": 27.320454545454545,
+   "verzoegerung_se": 0.30451676689911605
+  },
+  "Stufe +14 %|1.0|0": {
+   "anteil": 0.43833333333333335,
+   "verzoegerung": 11.091254752851711,
+   "verzoegerung_se": 0.5002511470655101
+  },
+  "Stufe +14 %|1.0|3": {
+   "anteil": 0.20833333333333334,
+   "verzoegerung": 14.664,
+   "verzoegerung_se": 0.8049799837222962
+  },
+  "Stufe +14 %|1.0|7": {
+   "anteil": 0.20666666666666667,
+   "verzoegerung": 18.169354838709676,
+   "verzoegerung_se": 0.7245753320219086
+  },
+  "Stufe +14 %|1.0|10": {
+   "anteil": 0.21,
+   "verzoegerung": 21.373015873015873,
+   "verzoegerung_se": 0.7304474929346341
+  },
+  "Stufe +14 %|1.0|14": {
+   "anteil": 0.19,
+   "verzoegerung": 24.903508771929825,
+   "verzoegerung_se": 0.8700692731135822
+  },
+  "Stufe +14 %|1.0|21": {
+   "anteil": 0.19,
+   "verzoegerung": 31.210526315789473,
+   "verzoegerung_se": 0.6239381520692544
+  },
+  "Stufe +14 %|1.5|3": {
+   "anteil": 0.085,
+   "verzoegerung": 15.72549019607843,
+   "verzoegerung_se": 1.3085176259978684
+  },
+  "Stufe +14 %|1.5|7": {
+   "anteil": 0.056666666666666664,
+   "verzoegerung": 18.970588235294116,
+   "verzoegerung_se": 1.3267340881552594
+  },
+  "Stufe +14 %|1.5|10": {
+   "anteil": 0.056666666666666664,
+   "verzoegerung": 20.470588235294116,
+   "verzoegerung_se": 1.3558056941994356
+  },
+  "Stufe +14 %|1.5|14": {
+   "anteil": 0.06666666666666667,
+   "verzoegerung": 25.8,
+   "verzoegerung_se": 1.4919441798865787
+  },
+  "Stufe +14 %|1.5|21": {
+   "anteil": 0.045,
+   "verzoegerung": 29.40740740740741,
+   "verzoegerung_se": 1.0476663243773547
+  },
+  "Aktionswoche +25 %|1.0|0": {
+   "anteil": 0.6283333333333333,
+   "verzoegerung": 4.721485411140583,
+   "verzoegerung_se": 0.22199444525046613
+  },
+  "Aktionswoche +25 %|1.0|3": {
+   "anteil": 0.30833333333333335,
+   "verzoegerung": 6.605405405405405,
+   "verzoegerung_se": 0.32969890630524945
+  },
+  "Aktionswoche +25 %|1.0|7": {
+   "anteil": 0.10166666666666667,
+   "verzoegerung": 9.426229508196721,
+   "verzoegerung_se": 0.16104002216711888
+  },
+  "Aktionswoche +25 %|1.0|10": {
+   "anteil": 0.01,
+   "verzoegerung": 12.0,
+   "verzoegerung_se": 0.9309493362512629
+  },
+  "Aktionswoche +25 %|1.0|14": {
+   "anteil": 0.008333333333333333,
+   "verzoegerung": 25.0,
+   "verzoegerung_se": 7.529940238806679
+  },
+  "Aktionswoche +25 %|1.0|21": {
+   "anteil": 0.01,
+   "verzoegerung": 20.833333333333332,
+   "verzoegerung_se": 3.3804996343407256
+  },
+  "Aktionswoche +25 %|1.5|3": {
+   "anteil": 0.18,
+   "verzoegerung": 5.814814814814815,
+   "verzoegerung_se": 0.09590810271025496
+  },
+  "Aktionswoche +25 %|1.5|7": {
+   "anteil": 0.025,
+   "verzoegerung": 8.8,
+   "verzoegerung_se": 0.34086724129853857
+  },
+  "Aktionswoche +25 %|1.5|10": {
+   "anteil": 0.0016666666666666668,
+   "verzoegerung": 8.0,
+   "verzoegerung_se": null
+  },
+  "Aktionswoche +25 %|1.5|14": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Aktionswoche +25 %|1.5|21": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Aktionswoche +50 %|1.0|0": {
+   "anteil": 1.0,
+   "verzoegerung": 2.1033333333333335,
+   "verzoegerung_se": 0.0423171812897919
+  },
+  "Aktionswoche +50 %|1.0|3": {
+   "anteil": 0.9766666666666667,
+   "verzoegerung": 5.01877133105802,
+   "verzoegerung_se": 0.0391261836388038
+  },
+  "Aktionswoche +50 %|1.0|7": {
+   "anteil": 0.8133333333333334,
+   "verzoegerung": 8.825819672131148,
+   "verzoegerung_se": 0.04723275609794385
+  },
+  "Aktionswoche +50 %|1.0|10": {
+   "anteil": 0.15,
+   "verzoegerung": 11.655555555555555,
+   "verzoegerung_se": 0.3023673184781603
+  },
+  "Aktionswoche +50 %|1.0|14": {
+   "anteil": 0.015,
+   "verzoegerung": 24.555555555555557,
+   "verzoegerung_se": 5.085685551709248
+  },
+  "Aktionswoche +50 %|1.0|21": {
+   "anteil": 0.006666666666666667,
+   "verzoegerung": 17.75,
+   "verzoegerung_se": 4.589389937671455
+  },
+  "Aktionswoche +50 %|1.5|3": {
+   "anteil": 0.9533333333333334,
+   "verzoegerung": 5.003496503496503,
+   "verzoegerung_se": 0.038969219556567035
+  },
+  "Aktionswoche +50 %|1.5|7": {
+   "anteil": 0.5733333333333334,
+   "verzoegerung": 8.55813953488372,
+   "verzoegerung_se": 0.039792882964999235
+  },
+  "Aktionswoche +50 %|1.5|10": {
+   "anteil": 0.025,
+   "verzoegerung": 10.266666666666667,
+   "verzoegerung_se": 0.5114560602703829
+  },
+  "Aktionswoche +50 %|1.5|14": {
+   "anteil": 0.0016666666666666668,
+   "verzoegerung": 8.0,
+   "verzoegerung_se": null
+  },
+  "Aktionswoche +50 %|1.5|21": {
+   "anteil": 0.0033333333333333335,
+   "verzoegerung": 13.0,
+   "verzoegerung_se": 9.0
+  },
+  "Ausreißer +100 %|1.0|0": {
+   "anteil": 0.2816666666666667,
+   "verzoegerung": 1.6745562130177514,
+   "verzoegerung_se": 0.4392953879336987
+  },
+  "Ausreißer +100 %|1.0|3": {
+   "anteil": 0.018333333333333333,
+   "verzoegerung": 10.090909090909092,
+   "verzoegerung_se": 5.089123063330166
+  },
+  "Ausreißer +100 %|1.0|7": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Ausreißer +100 %|1.0|10": {
+   "anteil": 0.0016666666666666668,
+   "verzoegerung": 12.0,
+   "verzoegerung_se": null
+  },
+  "Ausreißer +100 %|1.0|14": {
+   "anteil": 0.005,
+   "verzoegerung": 26.666666666666668,
+   "verzoegerung_se": 12.666666666666668
+  },
+  "Ausreißer +100 %|1.0|21": {
+   "anteil": 0.005,
+   "verzoegerung": 40.666666666666664,
+   "verzoegerung_se": 19.666666666666668
+  },
+  "Ausreißer +100 %|1.5|3": {
+   "anteil": 0.0033333333333333335,
+   "verzoegerung": 2.0,
+   "verzoegerung_se": 1.0
+  },
+  "Ausreißer +100 %|1.5|7": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Ausreißer +100 %|1.5|10": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Ausreißer +100 %|1.5|14": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Ausreißer +100 %|1.5|21": {
+   "anteil": 0.0,
+   "verzoegerung": null,
+   "verzoegerung_se": null
+  },
+  "Rampe auf +28 %|1.0|0": {
+   "anteil": 0.44333333333333336,
+   "verzoegerung": 38.51127819548872,
+   "verzoegerung_se": 0.8201642532209664
+  },
+  "Rampe auf +28 %|1.0|3": {
+   "anteil": 0.3233333333333333,
+   "verzoegerung": 47.28865979381443,
+   "verzoegerung_se": 0.793378314168151
+  },
+  "Rampe auf +28 %|1.0|7": {
+   "anteil": 0.3566666666666667,
+   "verzoegerung": 51.36448598130841,
+   "verzoegerung_se": 0.6977145113324007
+  },
+  "Rampe auf +28 %|1.0|10": {
+   "anteil": 0.36,
+   "verzoegerung": 53.699074074074076,
+   "verzoegerung_se": 0.7070677981071146
+  },
+  "Rampe auf +28 %|1.0|14": {
+   "anteil": 0.36833333333333335,
+   "verzoegerung": 56.59276018099548,
+   "verzoegerung_se": 0.7318817760452497
+  },
+  "Rampe auf +28 %|1.0|21": {
+   "anteil": 0.39166666666666666,
+   "verzoegerung": 61.88510638297873,
+   "verzoegerung_se": 0.7377772640629804
+  },
+  "Rampe auf +28 %|1.5|3": {
+   "anteil": 0.205,
+   "verzoegerung": 49.1219512195122,
+   "verzoegerung_se": 0.7994721507506629
+  },
+  "Rampe auf +28 %|1.5|7": {
+   "anteil": 0.21833333333333332,
+   "verzoegerung": 54.916030534351144,
+   "verzoegerung_se": 0.693738302536494
+  },
+  "Rampe auf +28 %|1.5|10": {
+   "anteil": 0.23,
+   "verzoegerung": 56.8768115942029,
+   "verzoegerung_se": 0.6974627892464565
+  },
+  "Rampe auf +28 %|1.5|14": {
+   "anteil": 0.27666666666666667,
+   "verzoegerung": 58.56024096385542,
+   "verzoegerung_se": 0.7352020133121869
+  },
+  "Rampe auf +28 %|1.5|21": {
+   "anteil": 0.28833333333333333,
+   "verzoegerung": 63.95375722543353,
+   "verzoegerung_se": 0.7955302200539404
+  },
+  "keine Form|1.0|0": {
+   "meldungen_je_jahr": [
+    0.3,
+    0.03199888701459021
+   ]
+  },
+  "keine Form|1.0|3": {
+   "meldungen_je_jahr": [
+    0.013333333333333334,
+    0.004686419757430042
+   ]
+  },
+  "keine Form|1.0|7": {
+   "meldungen_je_jahr": [
+    0.0,
+    0.0
+   ]
+  },
+  "keine Form|1.0|10": {
+   "meldungen_je_jahr": [
+    0.0033333333333333335,
+    0.0023550543175125337
+   ]
+  },
+  "keine Form|1.0|14": {
+   "meldungen_je_jahr": [
+    0.006666666666666667,
+    0.0033249756101939067
+   ]
+  },
+  "keine Form|1.0|21": {
+   "meldungen_je_jahr": [
+    0.005,
+    0.0028819280320594325
+   ]
+  },
+  "keine Form|1.5|3": {
+   "meldungen_je_jahr": [
+    0.0033333333333333335,
+    0.0023550543175125337
+   ]
+  },
+  "keine Form|1.5|7": {
+   "meldungen_je_jahr": [
+    0.0,
+    0.0
+   ]
+  },
+  "keine Form|1.5|10": {
+   "meldungen_je_jahr": [
+    0.0,
+    0.0
+   ]
+  },
+  "keine Form|1.5|14": {
+   "meldungen_je_jahr": [
+    0.0016666666666666668,
+    0.0016666666666666666
+   ]
+  },
+  "keine Form|1.5|21": {
+   "meldungen_je_jahr": [
+    0.0,
+    0.0
+   ]
+  }
+ }
+}

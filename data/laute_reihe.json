@@ -1,0 +1,50 @@
+{
+ "30|standard": {
+  "parameter": {
+   "alpha": 0.06,
+   "h": 6.0,
+   "k": 0.5,
+   "wmin": 5,
+   "confirm": 0
+  },
+  "anteil": 0.5883333333333334,
+  "verzoegerung": 9.923512747875353,
+  "fehlmeldungen_je_jahr": 0.2966666666666667
+ },
+ "30|abgestimmt": {
+  "parameter": {
+   "alpha": 0.06,
+   "h": 8,
+   "k": 1.0,
+   "wmin": 2,
+   "confirm": 0
+  },
+  "anteil": 0.008333333333333333,
+  "verzoegerung": 6.4,
+  "fehlmeldungen_je_jahr": 0.0
+ },
+ "50|standard": {
+  "parameter": {
+   "alpha": 0.06,
+   "h": 6.0,
+   "k": 0.5,
+   "wmin": 5,
+   "confirm": 0
+  },
+  "anteil": 0.975,
+  "verzoegerung": 6.005128205128205,
+  "fehlmeldungen_je_jahr": 0.2966666666666667
+ },
+ "50|abgestimmt": {
+  "parameter": {
+   "alpha": 0.03,
+   "h": 6,
+   "k": 0.5,
+   "wmin": 5,
+   "confirm": 0
+  },
+  "anteil": 0.995,
+  "verzoegerung": 4.968174204355109,
+  "fehlmeldungen_je_jahr": 0.6516666666666666
+ }
+}
