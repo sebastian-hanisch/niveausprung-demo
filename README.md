@@ -1,7 +1,6 @@
 # Niveausprung erkennen – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-niveausprung-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-niveausprung-demo.streamlit.app/)**
 
 Stück 12 der **Zeitreihen-Prognose: von Naiv bis Vortraining** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Vorgänger sind die Stücke der Linie, die den Preis eines Niveausprungs zeigen
 (`naive-forecast-demo`, `exponential-smoothing-demo`, `arima-demo`, `dynamic-regression-demo`) und die Bestandsentscheidung aus Prognosen (`forecast-inventory-demo`); die Kante ist ein **Kontrast**, kein Fix: Eine gut abgestimmte Nachführung holt den
